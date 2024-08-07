@@ -609,4 +609,7 @@
     <bool name="config_dozePulseTilt">true</bool>
     <bool name="config_dozePulseProximity">true</bool>
     <bool name="config_deviceHaveWakeUpProximity">true</bool>
+
+    <!-- Whether to use Richtap vibration -->
+    <bool name="config_usesRichtapVibration">true</bool>
 </resources>
