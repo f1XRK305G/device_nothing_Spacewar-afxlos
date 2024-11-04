@@ -42,6 +42,7 @@ TARGET_UDFPS_ANIMATIONS := true
 
 # GApps
 AFTERLIFE_GAPPS := true
+WITH_GMS := true
 
 # Faceunlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
